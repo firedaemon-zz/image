@@ -147,7 +147,7 @@ Skywalking生态还有一些插件扩展，例如Oracle、Resin插件等。这�
 我们都是通过 SkyWalking 提供的插件，实现对指定框架的链路追踪。那么，如果我们希望对项目中的业务方法，实现链路追踪，方便我们排查问题，需要怎么做呢？SkyWalking 提供了两种方式：
 
 > - 方式一，通过 SkyWalking `@Trace` 注解，可见[《Application-toolkit-trace.md》](https://github.com/SkyAPM/document-cn-translation-of-skywalking/blob/master/docs/zh/8.0.0/setup/service-agent/java-agent/Application-toolkit-trace.md)文档。
-> - 方式二，通过 SkyWalking XML `<enhanced />` 配置，可见[《Customize-enhance-trace.md》](https://github.com/SkyAPM/document-cn-translation-of-skywalking/blob/master/docs/zh/master/setup/service-agent/java-agent/Customize-enhance-trace.md)文档。
+> - 方式二，通过 SkyWalking XML `<enhanced />` 配置，可见[《Customize-enhance-trace.md》](https://github.com/SkyAPM/document-cn-translation-of-skywalking/blob/master/docs/zh/8.0.0/setup/service-agent/java-agent/Customize-enhance-trace.md)文档。
 
 ##### 4.4.1 注解方式
 
