@@ -307,11 +307,11 @@ public static void main(String[] args) {
 plugin.customize.enhance_file=customize_enhance.xml的绝对路径
 ```
 
-##### 4.4.3 插件二次开发，
+##### 4.4.3 插件二次开发
 
-插件二次开发，对com.ultrapowe.* 的所有方法实现监控
+插件二次开发，对com.ultrapower.* 的所有方法实现监控
 
-- [ ]    <u>*TODO*</u>
+- [x]    <u>*TODO*</u>
 
 #### 4.5 跨线程追踪
 
@@ -470,6 +470,6 @@ public class SupplierWrapper<V> implements Supplier<V> {
 #### 5.6 Dapper，大规模分布式系统的跟踪系统
    > http://www.iocoder.cn/Fight/Dapper-translation/?self
 
-#### 5.7 DEMO 地址
+#### 5.7 Skywalking DEMO 地址
 
 > http://122.112.182.72:8080/ 
